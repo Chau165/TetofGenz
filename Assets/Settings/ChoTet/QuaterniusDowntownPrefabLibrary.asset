@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1fb7d8c2fb9fee4a90862fc4b43ae75, type: 3}
+  m_Name: QuaterniusDowntownPrefabLibrary
+  m_EditorClassIdentifier: Assembly-CSharp::ChoTet.Level1.Highway.QuaterniusDowntownPrefabLibrary
+  sidewalkPlanters:
+  - {fileID: 2007044297669875085, guid: 31a01ad4a1a5471458884ac33a08186f, type: 3}
+  sidewalkTrees:
+  - {fileID: 2007044297669875085, guid: 31a01ad4a1a5471458884ac33a08186f, type: 3}
+  sidewalkBollards:
+  - {fileID: 5124664383974845164, guid: 7069a9c64b575be4e83a4805fb6165a5, type: 3}
+  sidewalkGroundDetails:
+  - {fileID: 7867468351117050998, guid: e57ef4e87de37ce4eb998eac4e3db4bc, type: 3}
+  - {fileID: 313457056640187325, guid: 47690b07c7c51cc448fd3c860c622f31, type: 3}
+  sidewalkStreetLights:
+  - {fileID: 6934246383175336836, guid: bca39e0d9b9935d4ea46bf8680047ec1, type: 3}
+  sidewalkBins:
+  - {fileID: 8621145877471684547, guid: 5c46236658622654480d2d0e0edec70a, type: 3}
+  sidewalkBusStops:
+  - {fileID: 6655787376237114105, guid: 8ced0fab4d137104398100e49d1ace01, type: 3}
+  sidewalkPavementMaterial: {fileID: 2100000, guid: 68f53a07a5c8d1e4fa9cbc44953f1025, type: 2}
+  completeBuildings:
+  - {fileID: 8557395538788085401, guid: d35a82ff2ff3c4545ba8e917ccd1d1d4, type: 3}
+  - {fileID: 4642814221083906247, guid: 29ba9b8e70cffa944a60b97d1ad6c92b, type: 3}
+  - {fileID: 3978491314520701885, guid: e3f50785f0537c343ba603513e725392, type: 3}
+  houseFacades:
+  - {fileID: 9014152786143244608, guid: 5915e06c387aa84479305e3b115a6c8e, type: 3}
+  - {fileID: 6566418604873487066, guid: 5793808ba78cf3a47997c49abe47c1e5, type: 3}
+  - {fileID: 836972194363976757, guid: 936717981b3532d4f97f0606b0bf5dfe, type: 3}
+  - {fileID: 521240260695380002, guid: 02b5abb0e6f900c49a0891c346272915, type: 3}
+  - {fileID: 8418592790989748623, guid: 35e5691ea2efc424c91ba91b4bd9fbf5, type: 3}
+  - {fileID: 2964633860627541735, guid: c8af2a5bf470da44ab5180a6a23ecda6, type: 3}
+  - {fileID: 3978491314520701885, guid: e3f50785f0537c343ba603513e725392, type: 3}
+  shopFacades:
+  - {fileID: 6642540930799984566, guid: a13155e9d7421164c93de08a4ff95050, type: 3}
+  - {fileID: 3948630816241924452, guid: 0e4426266eff5da4a873c8a074fe09b6, type: 3}
+  - {fileID: 3855094991887417609, guid: 45d98dc760c553a40a3fdb5c4c838088, type: 3}
+  - {fileID: 7333200625519533542, guid: bd971ed3e47a7c74bb244e6633b7ee04, type: 3}
+  - {fileID: 4661114064638883594, guid: 8048df4737ed276429e8c37863448bd9, type: 3}
+  - {fileID: 5976738827903477876, guid: 1615cf57b7cc0ec4db39b012cbc4cd5f, type: 3}
+  - {fileID: 4285216448615307072, guid: c5524967314136f40a800937bb546099, type: 3}
+  apartmentFacades:
+  - {fileID: 4642814221083906247, guid: 29ba9b8e70cffa944a60b97d1ad6c92b, type: 3}
+  - {fileID: 8557395538788085401, guid: d35a82ff2ff3c4545ba8e917ccd1d1d4, type: 3}
+  - {fileID: 1158435289370196821, guid: 8c0e1fe4e2f386e49b3a5fa84c5cde1e, type: 3}
+  - {fileID: 6644445641247884043, guid: d505b0ffdb78ff94ea754bfe59690cfa, type: 3}
+  - {fileID: 753193486539875646, guid: b532a5394fc31824bae2067960340235, type: 3}
+  cornerFacades:
+  - {fileID: 5234152674660945227, guid: 85d5832b5c6a22d4eb9f455464c43b5d, type: 3}
+  - {fileID: 1782620682659477962, guid: af66a6fccca203c489a29412e772196e, type: 3}
+  - {fileID: 5997976434123225125, guid: 7309a7c52ce8b63439e5e69d4148a6c4, type: 3}
+  - {fileID: 375482556063771607, guid: 15c0fa4567fb545408eedd3de5825613, type: 3}
+  - {fileID: 1048896927247079953, guid: 5dee571c2f6861245b342d9e2815d1cb, type: 3}
+  roofCaps:
+  - {fileID: 6244922665397570493, guid: ad662e759eaca744db53c4f16f58e790, type: 3}
+  - {fileID: 9038011805775720257, guid: 41463e84a1695fd4081799ec9c85a7b9, type: 3}
+  - {fileID: 1048896927247079953, guid: 5dee571c2f6861245b342d9e2815d1cb, type: 3}
+  - {fileID: 1145897912755602180, guid: 956c7f445a5db5849a8a718a93fa67d8, type: 3}
+  - {fileID: 2784883631289420913, guid: 2bb86305152eb1449800ac1de0c3b3b7, type: 3}
+  leftBlockVariants:
+  - {fileID: 2380054085482729210, guid: 8950165160e3f7b4ea98d9c293bb0c96, type: 3}
+  - {fileID: 1564782550961323346, guid: 0ec02715e6a2e2e4ebab0ddfac092950, type: 3}
+  - {fileID: 1144313621415633927, guid: febd37872bf16974b870625e26be2211, type: 3}
+  - {fileID: 7293744279794631377, guid: ca61ce983e0b08345940457fb91f6d5e, type: 3}
+  - {fileID: 194217215993436540, guid: a22eeba6e1a6cc842b74ae52564a7bc5, type: 3}
+  - {fileID: 1096917333355657638, guid: 0356b0e02c3210f4495b621e92e0f9df, type: 3}
+  rightBlockVariants:
+  - {fileID: 7883296434929222156, guid: 7f7a04e8f924ae8428c9a2713d252fc9, type: 3}
+  - {fileID: 1720732757598757519, guid: 863315c7ed89d274a952beb2f8d4027a, type: 3}
+  - {fileID: 891020439841794404, guid: 7bda31efbc32c3144b65a83014567c46, type: 3}
+  - {fileID: 2765781851655790763, guid: b72c283f36e2dd147b65867bea87066f, type: 3}
+  - {fileID: 354258716129589872, guid: ec8b17d088e5ec742988608e070afc88, type: 3}
+  - {fileID: 1660545116578116013, guid: 526e092c963f70c4f85e968b1c4a127c, type: 3}
+  trees:
+  - {fileID: 4370343253934635826, guid: 6e75b7cb68f00ec4ab365605d3e20f6a, type: 3}
+  - {fileID: 2007044297669875085, guid: 31a01ad4a1a5471458884ac33a08186f, type: 3}
+  utilityPoles:
+  - {fileID: 5124664383974845164, guid: 7069a9c64b575be4e83a4805fb6165a5, type: 3}
+  streetLights: []
+  trafficSigns:
+  - {fileID: 5820696901855731205, guid: eecfa183e6bbd5c4a850b92f1e22e66c, type: 3}
+  - {fileID: 2383448822234792101, guid: 99991e2f3b2c9954790e9a6a9c393c12, type: 3}
+  - {fileID: 4732953911606824244, guid: e4d3bfd85c65ba4469ebaba8c7ce075c, type: 3}

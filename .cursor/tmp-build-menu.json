@@ -1,0 +1,5 @@
+{
+  "csharpCode": "using ChoTet.Menu.Editor;\npublic class BuildMenu\n{\n    public static string Main()\n    {\n        MainMenuSceneBuilder.BuildMainMenu();\n        return \"done\";\n    }\n}",
+  "className": "BuildMenu",
+  "methodName": "Main"
+}

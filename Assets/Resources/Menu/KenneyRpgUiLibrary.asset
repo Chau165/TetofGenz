@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e8c1d2f3a5b6c7d8e9f0a1b2c3d4e5f, type: 3}
+  m_Name: KenneyRpgUiLibrary
+  m_EditorClassIdentifier: Assembly-CSharp::ChoTet.Menu.KenneyRpgUiLibrary
+  buttonLongBrown: {fileID: 21300000, guid: 7beb27dca86543548924e7a2ac40d0c3, type: 3}
+  buttonLongBrownPressed: {fileID: 21300000, guid: 7803bc41e3427914a9d8200952a5bc60, type: 3}
+  buttonLongBeige: {fileID: 21300000, guid: a6ebb9672992f434687cb7839d0e5df7, type: 3}
+  buttonLongBeigePressed: {fileID: 21300000, guid: e4432444624a03e4eadec25f27a766f9, type: 3}
+  buttonRoundBrown: {fileID: 21300000, guid: bf65e0d494fa469469b2c080fb15dc61, type: 3}
+  buttonSquareBrown: {fileID: 21300000, guid: 97aa17d46c3121045b02bc8faff310ff, type: 3}
+  buttonSquareBrownPressed: {fileID: 21300000, guid: 59168be8cff55264aa5ecd947839cc90, type: 3}
+  woodPlankBackground: {fileID: 2800000, guid: 24aafcaf1ddc930428ace79718be69ba, type: 3}
+  menuVillageBackground: {fileID: 2800000, guid: 5b9970c6b145bd34bbc06fd45fc273ca, type: 3}
+  panelBrown: {fileID: 21300000, guid: 7902d9b7b3b10a849bc3486c4cf854d5, type: 3}
+  panelBeige: {fileID: 21300000, guid: 2b1edef0cca009b439b39949c9e786e9, type: 3}
+  panelBeigeLight: {fileID: 21300000, guid: cc2bef4dbe8fa234b8eeaceae152e8ba, type: 3}
+  panelInsetBeige: {fileID: 21300000, guid: 3c4253ea24d4f5c4bbb125ddaba83a77, type: 3}
+  panelInsetBeigeLight: {fileID: 21300000, guid: 733c4d2518f1e654c8a1b3c3534d2730, type: 3}
+  panelInsetBrown: {fileID: 21300000, guid: b6b078d8712c30f4bac21047bbd9234f, type: 3}
+  barYellowMid: {fileID: 21300000, guid: c3806f5e6cf80f64a8d3fdaad28c9a85, type: 3}
+  barYellowVertical: {fileID: 21300000, guid: 360d3a57a4d97f64c8643b5280caa71d, type: 3}
+  barRedHorizontal: {fileID: 21300000, guid: 248dd20ce793a8e47a82e431eb7174d5, type: 3}
+  iconCrossBrown: {fileID: 21300000, guid: 0f11c771ea7c28e448d83b85dbe0c0e5, type: 3}
+  barGreenHorizontalLeft: {fileID: 21300000, guid: 88a9764a6beda5747a9d38d17a14c175, type: 3}
+  barGreenHorizontalMid: {fileID: 21300000, guid: d082c8b0ed229bb478b7f1e72dbda70e, type: 3}
+  barGreenHorizontalRight: {fileID: 21300000, guid: 82a06992bc12a954aaf136bd4393fa80, type: 3}
+  barGreenVerticalTop: {fileID: 21300000, guid: c13f89a58d3a48341bab5434bccdfce1, type: 3}
+  barGreenVerticalMid: {fileID: 21300000, guid: 220ef180c445e524b8163962841791dd, type: 3}
+  barGreenVerticalBottom: {fileID: 21300000, guid: 534d0a8364f4e0e45b3cfe6ea1bf65a7, type: 3}
+  vineLeaf: {fileID: 21300000, guid: 6c4c5d55d9e7eac40a74b26be9c18742, type: 3}

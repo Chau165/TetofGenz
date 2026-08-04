@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1c2d3e4f5a6478990abcdef01234567, type: 3}
+  m_Name: MainMenuBannerDecorationLibrary
+  m_EditorClassIdentifier: Assembly-CSharp::ChoTet.Menu.MainMenuBannerDecorationLibrary
+  stemA: {fileID: 6798439663182289775, guid: cac5f64a8c8b2fb4d85d0665d7833f9a, type: 3}
+  stemB: {fileID: 5823438885956117000, guid: 30afe23ca77216d409e17a4c6a1fa02c, type: 3}
+  stemC: {fileID: 1056761769311590477, guid: 46b5815f6c67b7e4083d0e57080ba16f, type: 3}
+  leafA: {fileID: 637721462202216035, guid: 4e0e25b7c2c0f2a4bae0fed2280466a2, type: 3}
+  leafB: {fileID: 8785014615040747043, guid: b2448cd152d0e7346815a1ac09986961, type: 3}
+  leafC: {fileID: 2312941113473115627, guid: 5be631ee784bddb4c8cd2efd500db87e, type: 3}
+  edgeTuft: {fileID: 3629332743539890471, guid: 88b403a665be9744f971d6bc4e878f0e, type: 3}
+  blossomYellowA: {fileID: 553803834136735447, guid: 10319a80a46ce1c4184989f893354897, type: 3}
+  blossomYellowB: {fileID: 4669128086838775804, guid: a0fee2bf3e862e64494f573130df0dbf, type: 3}
+  blossomYellowC: {fileID: 570301956381461569, guid: 466b9e1bb6210f94bbdd141eb97e3c8d, type: 3}
+  blossomRedA: {fileID: 1117857908376359704, guid: 15b990213cea7f0478ea9bff2baad9c1, type: 3}
+  blossomRedB: {fileID: 4399184098321190726, guid: 58777b70911a0084593f6197c89476aa, type: 3}
+  blossomPot: {fileID: 179969503972620271, guid: bf1a024e76f38f84cb744d8e9f56b7ab, type: 3}
+  lantern: {fileID: 7189047328722756852, guid: cfd9e31c880414441aa66f70b40e16db, type: 3}
+  lanternMarket: {fileID: 5051726544823870948, guid: d6cfbca0aa720344e9a0d920d30c1e75, type: 3}
+  coin: {fileID: 5682978878194136878, guid: 74aaf32e479743b44a6c0abdd1c1ed35, type: 3}
+  coins: {fileID: 6888601265454462497, guid: 2a5990f46a7520d4bbc7fa6274caf1a2, type: 3}
+  appleRed: {fileID: 6426061696940929032, guid: 10e1618a04997b9449183bad8d969464, type: 3}
+  appleYellow: {fileID: 1225787198823214327, guid: ec69acfba609a0f4a931eb6ac24f3d4f, type: 3}

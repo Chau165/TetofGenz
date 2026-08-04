@@ -1,0 +1,4 @@
+Nunito (Regular + SemiBold) — Google Fonts, SIL Open Font License 1.1
+https://fonts.google.com/specimen/Nunito
+
+Used for the Level 1 highway in-game HUD typography.

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea24fc787cde999418756d626c0e54c2, type: 3}
+  m_Name: ChuBaDua
+  m_EditorClassIdentifier: Assembly-CSharp::ChoTet.Data.VendorProfile
+  vendorId: chu_ba_dua
+  displayName: "Qu\u1EA7y hoa qu\u1EA3 Ch\xFA Ba"
+  greeting: "Th\xEDch qu\u1EA3 d\u01B0a h\u1EA5u n\xE0o c\u1EE9 g\xF5 xem th\u1EED,
+    nh\u01B0ng d\u01B0a may m\u1EAFn \u0111\u1EA7u n\u0103m th\xEC gi\xE1 c\u1EA3
+    \u0111i \u0111\xF4i v\u1EDBi ch\u1EA5t l\u01B0\u1EE3ng nh\xE9 ch\xE1u."
+  stockedItem: {fileID: 11400000, guid: b7a4c700674312a4d8b848d6825e1987, type: 2}
+  patience: 58
+  greed: 0.27
+  honesty: 0.78
+  familiarity: 0
+  mood: direct
+  favoriteApproach: inspect_goods
+  zoneName: Market

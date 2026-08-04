@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea24fc787cde999418756d626c0e54c2, type: 3}
+  m_Name: CoHuongBanh
+  m_EditorClassIdentifier: Assembly-CSharp::ChoTet.Data.VendorProfile
+  vendorId: co_huong_banh
+  displayName: "Qu\u1EA7y b\xE1nh k\u1EB9o C\xF4 H\u01B0\u01A1ng"
+  greeting: "M\u1EE9t b\xE1nh t\u01B0\u01A1i ngon \u0111\xE2y con. B\xE0n tr\xE0
+    ng\xE0y T\u1EBFt th\u1ECBnh so\u1EA1n l\xE0 \u0111i\u1EC1u qu\xFD gi\xE1 nh\u1EA5t."
+  stockedItem: {fileID: 11400000, guid: da53a6cd65ad5de4d9960134ac7e689e, type: 2}
+  patience: 64
+  greed: 0.32
+  honesty: 0.88
+  familiarity: 1
+  mood: warm
+  favoriteApproach: soft_bargain
+  zoneName: Market

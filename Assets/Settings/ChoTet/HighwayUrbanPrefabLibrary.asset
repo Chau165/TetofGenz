@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50e5bc41c7bb70e43b838e0c3e139996, type: 3}
+  m_Name: HighwayUrbanPrefabLibrary
+  m_EditorClassIdentifier: Assembly-CSharp::ChoTet.Level1.Highway.HighwayUrbanPrefabLibrary
+  houses:
+  - {fileID: 5337369454485653850, guid: 360d5822e57359447b9ce3d8a3b37532, type: 3}
+  - {fileID: 8614566769928799913, guid: 407cec0499750964c87373d454cba99e, type: 3}
+  - {fileID: 575874035240156402, guid: 7497d6b5522b3ef4c975da4d035b26ae, type: 3}
+  - {fileID: 2352241880792767473, guid: 0ff0f5c3302eee844945115bfe13f943, type: 3}
+  - {fileID: 7446242150086142362, guid: 99420a4e47be02047983a8de78548f17, type: 3}
+  - {fileID: 5150551461221631457, guid: 0fdb1dadc44702f499b648f9f11bcf9b, type: 3}
+  - {fileID: 265591253760320404, guid: 17baadd2d44e62d4e8a91e885ce4144e, type: 3}
+  - {fileID: 8233636598383507252, guid: d4e0f7e6af5fde041b562e69c8777fe6, type: 3}
+  shops:
+  - {fileID: 6053085787823158449, guid: abaf13a763c700b4c9759cfe2b3ede0a, type: 3}
+  - {fileID: 8779748657665423965, guid: 1cf3082eab4e53e4ea2c6260232e313e, type: 3}
+  - {fileID: 8676478622907641567, guid: ff39cab3e6ddeda4ba9d7d17a9501182, type: 3}
+  - {fileID: 987322979315894174, guid: 9e3a4d80468bdc94ea88f013f08510d4, type: 3}
+  - {fileID: 4427523313280723972, guid: 25c3aa121f0a8944cb8b113a31bd4563, type: 3}
+  - {fileID: 3359409797177715914, guid: d18e3c639d13e2d498416a3c5009462c, type: 3}
+  - {fileID: 8080713936756012783, guid: 580d7f4570047ff4a83bd6e83df50ab4, type: 3}
+  streetLights:
+  - {fileID: 3566633951122676924, guid: fe742e248ee01324fbcdc9dfc3d0683c, type: 3}
+  - {fileID: 6094472392473256284, guid: e13ae8843a97a4c49bc1bac666178364, type: 3}
+  - {fileID: 7399536352057804258, guid: 5254ce5880eba824f99be812cc060d2b, type: 3}
+  - {fileID: 6898443065154134276, guid: 8357dfbd69842544e93cfbca3855016d, type: 3}
+  utilityPoles:
+  - {fileID: 6389761379778131964, guid: f3b7df17cea73b84d91b42d15c1b1df7, type: 3}
+  - {fileID: 3566633951122676924, guid: fe742e248ee01324fbcdc9dfc3d0683c, type: 3}
+  roadSigns:
+  - {fileID: 2111220532833401765, guid: 0ae0c3250b5b86948a77e13b230ed3ed, type: 3}
+  - {fileID: 4659854618957641345, guid: 1688346fb92ab3842acdafc72798ccd6, type: 3}
+  - {fileID: 6808171338819990514, guid: d302b5f5407e92b43b276b5759006d02, type: 3}
+  - {fileID: 4792052863875521840, guid: fc3c14464eb4aed49a38cda99252a495, type: 3}
+  - {fileID: 407837349677786567, guid: 9cfdf9a68edef1540ae51c0994b91c75, type: 3}
+  roadsideProps:
+  - {fileID: 6917048269027009072, guid: f4287c02f56ad4145aec1e5bed910f0c, type: 3}
+  - {fileID: 7099967877580977989, guid: 087fff42d3c77b246925b4782351aa19, type: 3}
+  - {fileID: 3359409797177715914, guid: d18e3c639d13e2d498416a3c5009462c, type: 3}
+  - {fileID: 8080713936756012783, guid: 580d7f4570047ff4a83bd6e83df50ab4, type: 3}
+  skylineBuildings:
+  - {fileID: 2731906361354674701, guid: 7204a8d4c276a2744a178cde0344b774, type: 3}
+  - {fileID: 1097506586273857988, guid: 8bd38d3f078dafe41b6d7699c405ac4c, type: 3}
+  - {fileID: 7695119763558581554, guid: a824f9a62caf9c54a9458419d6dcbbe8, type: 3}
+  - {fileID: 7446242150086142362, guid: 99420a4e47be02047983a8de78548f17, type: 3}
+  - {fileID: 5150551461221631457, guid: 0fdb1dadc44702f499b648f9f11bcf9b, type: 3}
+  treeFillers:
+  - {fileID: 424116594599306519, guid: e452556cfbd18884fbb98df57d94523b, type: 3}
+  - {fileID: 6107227621667900227, guid: 8a7389a3348ac1d4aaa080dc69711d20, type: 3}
+  - {fileID: 4625561620497119114, guid: 899852215c036ad42b61396f17b56541, type: 3}
+  - {fileID: 6300010298277293891, guid: ebce44df2d92b9442832ca4e98640b12, type: 3}
+  - {fileID: 6776750075785472100, guid: 6c4b60077da288749a93ce55ba69a050, type: 3}
+  - {fileID: 1239098822190937263, guid: 64c25b9c005bcc7418191722d67a95cf, type: 3}
+  - {fileID: 9217796024543944112, guid: e3b940423c7111c42894b3add7c30fd3, type: 3}
+  - {fileID: 2160502448136423231, guid: 72dcbf3805578914eb30688472738aa0, type: 3}
+  - {fileID: 9102875994649005946, guid: 8adadfa643c87f74bb2402c31a4e577c, type: 3}
+  - {fileID: 7227667129424070513, guid: d7b05eca61aae2d41a54f37e25c50dc9, type: 3}

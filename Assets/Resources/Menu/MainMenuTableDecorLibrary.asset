@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4e8c6a2d1f0394758691a2b3c4d5e6f, type: 3}
+  m_Name: MainMenuTableDecorLibrary
+  m_EditorClassIdentifier: Assembly-CSharp::ChoTet.Menu.MainMenuTableDecorLibrary
+  fruitBasket: {fileID: 4505828846205012363, guid: 4b7f7bf8cd0125243a6a457c53fc1b90, type: 3}
+  breadBasket: {fileID: 7860486457021396975, guid: 90f15e791bd7a46409914c71c35c27ea, type: 3}
+  basketSmall: {fileID: 432035604529955963, guid: e5af6012e68646a41bccc9e94919379e, type: 3}
+  basket: {fileID: 2611937641197386096, guid: cae6c4613f2320a489d33d30973a48ad, type: 3}
+  eggsBasket: {fileID: 4437485681303834104, guid: 73035f5f353bfaf468424da79dc1b9eb, type: 3}
+  appleBox: {fileID: 4234027085388069419, guid: b9065c1bddd69ca4ab2c37b9cbfe2ab1, type: 3}
+  appleRed: {fileID: 6426061696940929032, guid: 10e1618a04997b9449183bad8d969464, type: 3}
+  appleGreen: {fileID: 1871669443126721486, guid: 43556b5539144a845b5edfb031914765, type: 3}
+  appleYellow: {fileID: 1225787198823214327, guid: ec69acfba609a0f4a931eb6ac24f3d4f, type: 3}
+  beet: {fileID: 8450356867588271646, guid: acbc5754161cdcc4994e732bf0e9fd18, type: 3}
+  tomato: {fileID: 3009478848925545824, guid: ba0a31dc656c679499efa3bb7dba1d5c, type: 3}
+  carrot: {fileID: 1830841635781726097, guid: 9540292a453dac645bad435792805b94, type: 3}
+  banana: {fileID: 3355626302234992199, guid: 7b7a60980f07021488b8f2c94a96f93c, type: 3}
+  watermelon: {fileID: 4722834602239271644, guid: 3436223d709f61749afb4adc7dbbc63e, type: 3}
+  woodenSign: {fileID: 6390088810522250898, guid: 7242c3c430ebdd4478843bd94fc55be7, type: 3}
+  woodenSignAlt: {fileID: 7829669328984768023, guid: 1cfe0aebf2d528e41a25542addfe8364, type: 3}
+  lantern: {fileID: 5051726544823870948, guid: d6cfbca0aa720344e9a0d920d30c1e75, type: 3}
+  woodenCrate: {fileID: 4243561858387006495, guid: a35ab8eacfb174a40b2af243118029b2, type: 3}
+  sack: {fileID: 2671707540183766986, guid: e75203ad640d6aa4890f0c17e26e0046, type: 3}
+  sackOpen: {fileID: 3703760166310397755, guid: f74b0d6b21a350347aa1f01ddb3448fc, type: 3}
+  woodenBowl: {fileID: 6442935917328690983, guid: 3be4f1eccf329f241a51b9fc1dce06be, type: 3}
+  potato: {fileID: 5181662726392665999, guid: 7649949d33b773446a1c67c81dc75379, type: 3}
+  roundBread: {fileID: 312464068125674352, guid: 3d4423e72eabf19439fa6b367a803a32, type: 3}
+  cookie: {fileID: 3837188779371060388, guid: 46125fc5251e14f4692a5a3c3f4841c0, type: 3}
+  pretzel: {fileID: 2790761602659681587, guid: ea07fea80b930b245b670b1d1ded20d8, type: 3}
+  roundCheese: {fileID: 6663731728998327630, guid: 24a49be23fa523947bf8c260956b7043, type: 3}

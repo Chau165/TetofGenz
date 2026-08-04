@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "ai-game-developer": {
+      "type": "stdio",
+      "command": "c:/Game/TetHolidayAdventure/Library/mcp-server/win-x64/gamedev-mcp-server.exe",
+      "args": [
+        "port=28711",
+        "plugin-timeout=10000",
+        "client-transport=stdio",
+        "authorization=none"
+      ]
+    }
+  }
+}

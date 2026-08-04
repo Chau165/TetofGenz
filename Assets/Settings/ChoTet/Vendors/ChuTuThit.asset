@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea24fc787cde999418756d626c0e54c2, type: 3}
+  m_Name: ChuTuThit
+  m_EditorClassIdentifier: Assembly-CSharp::ChoTet.Data.VendorProfile
+  vendorId: chu_tu_thit
+  displayName: "Qu\u1EA7y th\u1ECBt Ch\xFA T\u01B0"
+  greeting: "Th\u1ECBt t\u01B0\u01A1i ngon nh\u1EA5t th\xEC h\u1EBFt nhanh l\u1EAFm
+    \u0111\u1EA5y. \u0110\u1EBFn mu\u1ED9n l\xE0 kh\xF4ng c\xF2n mi\u1EBFng ngon
+    \u0111\xE2u con."
+  stockedItem: {fileID: 11400000, guid: 00487540f2255184c8dd511424a47e65, type: 2}
+  patience: 61
+  greed: 0.3
+  honesty: 0.84
+  familiarity: 1
+  mood: busy
+  favoriteApproach: compare_price
+  zoneName: Market

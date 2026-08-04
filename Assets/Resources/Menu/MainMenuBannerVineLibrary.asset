@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7f3c9e1b2d4486e9f0a1b2c3d4e5f6a, type: 3}
+  m_Name: MainMenuBannerVineLibrary
+  m_EditorClassIdentifier: Assembly-CSharp::ChoTet.Menu.MainMenuBannerVineLibrary
+  stemA: {fileID: 6798439663182289775, guid: cac5f64a8c8b2fb4d85d0665d7833f9a, type: 3}
+  stemB: {fileID: 5823438885956117000, guid: 30afe23ca77216d409e17a4c6a1fa02c, type: 3}
+  stemC: {fileID: 1056761769311590477, guid: 46b5815f6c67b7e4083d0e57080ba16f, type: 3}
+  leafTuftA: {fileID: 637721462202216035, guid: 4e0e25b7c2c0f2a4bae0fed2280466a2, type: 3}
+  leafTuftB: {fileID: 8785014615040747043, guid: b2448cd152d0e7346815a1ac09986961, type: 3}
+  leafTuftC: {fileID: 2312941113473115627, guid: 5be631ee784bddb4c8cd2efd500db87e, type: 3}
+  edgeTuft: {fileID: 3629332743539890471, guid: 88b403a665be9744f971d6bc4e878f0e, type: 3}

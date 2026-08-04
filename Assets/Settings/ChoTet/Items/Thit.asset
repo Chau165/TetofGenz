@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8965865a3be7041be51d5108f843d2, type: 3}
+  m_Name: Thit
+  m_EditorClassIdentifier: Assembly-CSharp::ChoTet.Data.ItemDefinition
+  itemId: thit
+  displayName: "Th\u1ECBt l\u1EE3n"
+  description: "Nguy\xEAn li\u1EC7u t\u01B0\u01A1i ngon cho m\xE2m c\u01A1m sum v\u1EA7y
+    gia \u0111\xECnh."
+  category: meat
+  basePrice: 155000
+  capacityCost: 2
+  minQuality: 58
+  maxQuality: 90
+  presentationBonus: 9
+  traditionBonus: 14
+  socialBonus: 3
+  luckWeight: 0
+  qualityFocus: "\u0111\u1ED9 t\u01B0\u01A1i ngon"
+  perishable: 1

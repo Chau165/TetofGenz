@@ -1,0 +1,40 @@
+fileFormatVersion: 2
+guid: 263181bff08110c45b6b9ff181f94492
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    texturesReadable: 0
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: Assets\Exports\glTF (Godot)\Sidewalk_Corner_Round_3m.bin
+    assetPath: Assets\Exports\glTF (Godot)\Sidewalk_Corner_Round_3m.bin
+  - type: 0
+    originalUri: Assets\Exports\glTF (Godot)\T_MetalConcrete_Normal.png
+    assetPath: Assets\Exports\glTF (Godot)\T_MetalConcrete_Normal.png
+  - type: 0
+    originalUri: Assets\Exports\glTF (Godot)\T_MetalConcrete_BaseColor.png
+    assetPath: Assets\Exports\glTF (Godot)\T_MetalConcrete_BaseColor.png
+  - type: 0
+    originalUri: Assets\Exports\glTF (Godot)\T_MetalConcrete_ORM.png
+    assetPath: Assets\Exports\glTF (Godot)\T_MetalConcrete_ORM.png
+  reportItems: []

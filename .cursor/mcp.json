@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "blender": {
+      "command": "uvx",
+      "args": [
+        "blender-mcp"
+      ],
+      "env": {
+        "BLENDER_HOST": "localhost",
+        "BLENDER_PORT": "9876"
+      }
+    },
+    "ai-game-developer": {
+      "type": "http",
+      "url": "http://localhost:28711"
+    }
+  }
+}

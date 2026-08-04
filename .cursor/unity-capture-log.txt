@@ -1,0 +1,25 @@
+.cursor is not a valid directory name. Please make sure there are no unallowed characters in the name.
+.cursor is not a valid directory name. Please make sure there are no unallowed characters in the name.
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.4/staging' branch; Version is '6000.4.7f1 (f3c3c4248748) revision 15975364'; Using compiler version '194234433'; Build Type 'Release'
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Mainh" at "2026-06-10T03:34:44.847899Z"
+OS: 'Windows 11  (10.0.22631) Professional' Language: 'en' Physical Memory: 16108 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+System  architecture: x64
+Process architecture: x64
+Date: 2026-06-10T03:34:44Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.4.7f1\Editor\Unity.exe
+-batchmode
+-nographics
+-projectPath
+c:\Game\TetHolidayAdventure
+-executeMethod
+ChoTet.Menu.Editor.LevelSelectThumbnailCapture.CaptureAllBatch
+-logFile
+c:\Game\TetHolidayAdventure\.cursor\unity-capture-log.txt
+-quit
+Successfully changed project path to: c:\Game\TetHolidayAdventure
+C:/Game/TetHolidayAdventure
+Exiting without the bug reporter. Application will terminate with return code 1

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea24fc787cde999418756d626c0e54c2, type: 3}
+  m_Name: ChiSauQua
+  m_EditorClassIdentifier: Assembly-CSharp::ChoTet.Data.VendorProfile
+  vendorId: chi_sau_qua
+  displayName: "Qu\u1EA7y qu\xE0 T\u1EBFt Ch\u1ECB S\xE1u"
+  greeting: "Qu\xE0 t\u1EB7ng T\u1EBFt c\u1ED1t \u1EDF t\u1EA5m l\xF2ng c\u1EE7a
+    gia \u0111\xECnh g\u1EEDi g\u1EAFm, ch\u1EE9 \u0111\xE2u ch\u1EC9 n\u1EB1m \u1EDF
+    c\xE1i t\xFAi ti\u1EC1n."
+  stockedItem: {fileID: 11400000, guid: cb8afecdf280332479da5a9258149c4a, type: 2}
+  patience: 67
+  greed: 0.34
+  honesty: 0.76
+  familiarity: 0
+  mood: talkative
+  favoriteApproach: bulk_buy
+  zoneName: Market

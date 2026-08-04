@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8965865a3be7041be51d5108f843d2, type: 3}
+  m_Name: QuaBieu
+  m_EditorClassIdentifier: Assembly-CSharp::ChoTet.Data.ItemDefinition
+  itemId: qua_bieu
+  displayName: "Gi\u1ECF qu\xE0 T\u1EBFt"
+  description: "Gi\u1ECF qu\xE0 T\u1EBFt \u1EA5m c\xFAng th\u1EC3 hi\u1EC7n s\u1EF1
+    tr\xE2n tr\u1ECDng \u0111\u1EBFn ng\u01B0\u1EDDi th\xE2n."
+  category: gift
+  basePrice: 165000
+  capacityCost: 1
+  minQuality: 65
+  maxQuality: 90
+  presentationBonus: 18
+  traditionBonus: 8
+  socialBonus: 20
+  luckWeight: 2
+  qualityFocus: "c\xE1ch tr\xECnh b\xE0y v\xE0 \xFD ngh\u0129a bi\u1EC3u t\u01B0\u1EE3ng"
+  perishable: 0

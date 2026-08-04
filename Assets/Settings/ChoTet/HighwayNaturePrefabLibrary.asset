@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65b06d9249ce0ed4fa045a1f61ff185c, type: 3}
+  m_Name: HighwayNaturePrefabLibrary
+  m_EditorClassIdentifier: Assembly-CSharp::ChoTet.Level1.Highway.HighwayNaturePrefabLibrary
+  grassTufts: []
+  bushes:
+  - {fileID: 1731247122188537122, guid: aeb4d90d350d14e40a927caad23332c3, type: 3}
+  - {fileID: 4826178474313577976, guid: 5d57019c8ec2d61428a15f34018ad454, type: 3}
+  - {fileID: 3522624218485737410, guid: dfb24acf9e0d7ca498611d93322ac255, type: 3}
+  - {fileID: 972655516221061743, guid: 578123c19c5aaba4ab8ef2acec466e9b, type: 3}
+  - {fileID: 1217324556867995722, guid: e08142f25aea5c54e941994b53944e70, type: 3}
+  - {fileID: 1034573522648169839, guid: 0c704ccffee52f94c98aa16decfb62a1, type: 3}
+  trees:
+  - {fileID: 297634155934274310, guid: c380082b83049ca4c913c91283b32099, type: 3}
+  - {fileID: 4917075062576420145, guid: 09aba9f867ff6ac4694e641a4a7f75b7, type: 3}
+  - {fileID: 7470991798636827655, guid: 0f96a85c4933bd94e9a116582dc56b71, type: 3}
+  - {fileID: 7247704705853486808, guid: f97345756454ec546983b19df204b6aa, type: 3}

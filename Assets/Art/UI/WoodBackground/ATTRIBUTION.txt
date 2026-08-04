@@ -1,0 +1,5 @@
+Wood plank background: CC0 texture from OpenGameArt (wood_0.png).
+https://opengameart.org/content/wood-texture
+
+Fallback / project seed also references Kenney UI Pack RPG expansion (CC0):
+https://kenney.nl/assets/ui-pack-rpg-expansion

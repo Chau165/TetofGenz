@@ -1,0 +1,4 @@
+{
+  "isMethodBody": true,
+  "csharpCode": "if (!UnityEditor.EditorApplication.isPlaying) { ChoTet.Level1.Editor.Level1OutdoorAreaBuilder.BuildOutdoorAreaMenu(); }"
+}
