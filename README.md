@@ -9,19 +9,21 @@ The game features interactive environments, character exploration, NPC dialogue,
 
 This project was developed as a university team project using Unity and C#.
 
+
 ## Gameplay Screenshots
 
 ### Street Exploration
-![Street Gameplay](Screenshots/street-gameplay.png)
+![Street Gameplay](Screenshots/t%E1%BA%A3i%20xu%E1%BB%91ng.png)
 
 ### Interactive Environment
-![Street Scene](Screenshots/street-scene.png)
+![Street Scene](Screenshots/t%E1%BA%A3i%20xu%E1%BB%91ng%20%281%29.png)
 
 ### Town Exploration
-![Town Gameplay](Screenshots/town-gameplay.png)
+![Town Gameplay](Screenshots/t%E1%BA%A3i%20xu%E1%BB%91ng%20%282%29.png)
 
 ### Tet Market
-![Tet Market](Screenshots/tet-market.png)
+![Tet Market](Screenshots/t%E1%BA%A3i%20xu%E1%BB%91ng%20%283%29.png)
+
 
 ## Key Features
 
